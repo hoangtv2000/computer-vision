@@ -10,7 +10,7 @@ def stack_image(scale, arr_img):
     rows_available = isinstance(arr_img[0],list)
     wid = arr_img[0][0].shape[1]
     hei = arr_img[0][0].shape[0]
-    #co cot
+    #have columns
     if rows_available:
         for x in range(rows):
             for y in range(cols):
@@ -26,7 +26,7 @@ def stack_image(scale, arr_img):
         for x in range(rows):
             hor[x] = np.hstack(arr_img[x])
         ver = np.vstack(hor)
-    #khong co cot
+    #no column
     else:
         for x in range(rows):
             if arr_img[x].shape[:2] == arr_img[0].shape[:2]:
