@@ -5,7 +5,8 @@ We introduce the theories and pratical results of Introduction to Computer visio
 
 ## Advanced Computer vision
 ### Image classification by pack of visual words
-[Code](https://github.com/hoangtv2000/computer-vision/blob/main/BoVW.ipynb)
+[Click here for code](https://github.com/hoangtv2000/computer-vision/blob/main/BoVW.ipynb)
+
 **Steps**:
 + Use extract descriptors by SIFT descriptor 
 + Build a historgram of features by clustering descriptors 
