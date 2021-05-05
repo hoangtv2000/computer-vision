@@ -16,12 +16,13 @@ We introduce the theories and pratical results of Introduction to Computer visio
 
 
 ### 2. Tensorflow tutorials
+[Click here for code](https://github.com/hoangtv2000/computer-vision/blob/main/basic_neural_net_optimization.ipynb)
+
 Deep learning tutorials. 
 + Tensor, operations, operators
 + GPU acceleration
 + Check device
 + Linear layer, activation and model
 + Fully connected layers
-+ Optimizations
++ Optimizations (gradient descent (GD), stochastic GD, GD with learning rate scheduling, GD with momemtum, Adam)
 
-[Click here for code](https://github.com/hoangtv2000/computer-vision/blob/main/basic_neural_net_optimization.ipynb)
