@@ -5,7 +5,7 @@ We introduce the theories and pratical results of Introduction to Computer visio
 
 ## Advanced Computer vision
 ### 1. Image classification by Bag of visual words
-[Click here for code](https://github.com/hoangtv2000/computer-vision/blob/main/BoVW.ipynb)
+https://github.com/hoangtv2000/computer-vision/blob/main/BoVW.ipynb)
 
 **Steps**:
 + Use extract descriptors by SIFT descriptor 
@@ -13,3 +13,9 @@ We introduce the theories and pratical results of Introduction to Computer visio
 + Normalize features by its length
 + Take more part of a dataset for training. We train by SVM classifier
 + Take another part to predict. We archieve an acurracy: 65%
+
+
+### 2. Tensorflow tutorials
+Deep learning tutorials (Neural net basic and optimization).
+
+[Click here for code](https://github.com/hoangtv2000/computer-vision/blob/main/basic_neural_net_optimization.ipynb)
