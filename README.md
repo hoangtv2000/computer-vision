@@ -5,7 +5,7 @@ We introduce the theories and pratical results of Introduction to Computer visio
 
 ## Advanced Computer vision
 ### 1. Image classification by Bag of visual words
-[Click here for code](https://github.com/hoangtv2000/computer-vision/blob/main/BoVW.ipynb)
+[Click here for code](https://github.com/hoangtv2000/computer-vision/blob/main/advanced-cv/BoVW.ipynb)
 
 **Steps**:
 + Use extract descriptors by SIFT descriptor 
